@@ -1,0 +1,8 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\user\source\repos\task-busioness-main\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(161,28): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\user\source\repos\task-busioness-main\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(188,35): warning C4244: '=': conversion from 'inputType' to 'int', possible loss of data
+          with
+          [
+              inputType=double
+          ]
+  ConsoleApplication18.vcxproj -> C:\Users\user\source\repos\task-busioness-main\ConsoleApplication18\x64\Debug\ConsoleApplication18.exe
